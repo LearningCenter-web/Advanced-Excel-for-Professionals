@@ -1,3 +1,0 @@
-Advanced Excel for Professionals
-Educational Purpose: Enhances productivity with advanced Excel functions, pivot tables, macros, and data analysis tools.
-Outcome: Build strong data analysis skills and automate repetitive tasks, valuable for roles in data and business analytics.
